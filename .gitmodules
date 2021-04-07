@@ -1,3 +1,9 @@
 [submodule "lab-1-bobo-z"]
 	path = lab-1-bobo-z
 	url = git@github.com:nju-cn-course/lab-1-bobo-z.git
+[submodule "lab-1-bobo-z"]
+	path = lab-2-bobo-z
+	url = git@github.com:nju-cn-course/lab-2-bobo-z.git
+[submodule "lab-3-bobo-z"]
+	path = lab-3-bobo-z
+	url = git@github.com:nju-cn-course/lab-3-bobo-z.git
