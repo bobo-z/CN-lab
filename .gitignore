@@ -10,6 +10,7 @@ switchyard.egg-info
 build
 dist
 tmp/
+forwarding_table.txt
 # venv
 syenv/
 # vscode
